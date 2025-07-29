@@ -1,18 +1,1 @@
-#include<stdio.h>
-
-int main()
-
-{
-
-  printf("👋 Hi, I’m @ZahranDhar");
-  
-  printf("👨‍🎓 Student");
-  
-  printf("🖥️ Computer Science And Engineering");
-  
-  printf("✨ Interested In: Coding, Game Dev, etc");
-
-  return 0;
-  
-  
-}
+I wanted to be cool but I became cold.
